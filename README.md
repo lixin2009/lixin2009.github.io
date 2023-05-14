@@ -1,4 +1,4 @@
 # lixin2009.github.io
-网站正在维护，请于北京时间 13：00后访问。
-The website is under maintenance, please visit after 5：00 UTC.
-ウェブサイトはメンテナンス中ですので、5:00 UTC以降にアクセスしてください。
+这是我的个人网站，欢迎访问。
+This is my personal website, welcome to visit.
+これは私の個人的なウェブサイトです、訪問を歓迎します。
